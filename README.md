@@ -3,4 +3,4 @@ Hello World
 This is a demo-repo
 
 #Header 
-Bob Marley is a legend
+Bob Marley is legend
